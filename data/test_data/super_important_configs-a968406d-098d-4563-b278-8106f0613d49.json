@@ -1,0 +1,11 @@
+{
+    "config_name": "discussion",
+    "additional_configs": {
+        "ip_address": "163.204.141.49",
+        "key": "0c45804f-0cb3-4da6-9b28-af655f12fbc2",
+        "password": "SlviH12x@1",
+        "type": "Type B",
+        "zipcode": "27405"
+    },
+    "sha": "b4de9b2af520e992644e610d3f24f0e40b45fff49e1f497f5d7861de2491ec6f"
+}

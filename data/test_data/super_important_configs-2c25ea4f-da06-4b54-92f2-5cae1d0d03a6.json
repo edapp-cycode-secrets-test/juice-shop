@@ -1,0 +1,13 @@
+{
+    "additional_configs": {
+        "ip_address": "157.113.155.242",
+        "key": "4ab68765-e1bf-4969-be24-8c31ad66d153",
+        "password": "$$eBmGQp9i",
+        "type": "Type C",
+        "zipcode": "55266"
+    },
+    "md5": "356882c1f86caf386a7b3e0bba2ddc84",
+    "sha": "a8b571a3ad5fdc66b2cfdde3cf9e6ce304ba4183a88660d6e79ce6651253dee2",
+    "config_name": "look",
+    "indentation": 57
+}

@@ -1,0 +1,14 @@
+{
+    "config_name": "travel",
+    "additional_configs": {
+        "ip_address": "157.97.217.236",
+        "key": "fe550ee4-fd4e-446c-83b4-3799b3f8b722",
+        "password": "(#8DfscZDr",
+        "type": "Type A",
+        "zipcode": "08086"
+    },
+    "md5": "74c581f94bfda14865e7556243f1fdb0",
+    "sha": "e32f9d639be65539cbd5361c2fea63493017759cb7a5cf668302dbfb8cdad3b0",
+    "sha1": "240ea3551b7b82b653584c57d88bd8a96c064dc6",
+    "indentation": 74
+}

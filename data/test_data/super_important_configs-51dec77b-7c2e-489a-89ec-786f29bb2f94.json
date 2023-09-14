@@ -1,0 +1,12 @@
+{
+    "config_name": "bad",
+    "additional_configs": {
+        "ip_address": "51.151.77.40",
+        "key": "4e19dace-0720-4044-a3f7-e5fcbd365c16",
+        "password": "a5Ul@oa)^+",
+        "type": "Type C",
+        "zipcode": "27379"
+    },
+    "md5": "10e22ae14cc429fe11266b4d10d12e42",
+    "sha": "07f52f264f5e12d0ed7e46b09e0b0db47ecd2bc05f999931cd3d141ba942c1a9"
+}
