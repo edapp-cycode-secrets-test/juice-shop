@@ -1,6 +1,4 @@
 exclusions:
   secret:
-    rules:
-    - 710032ef-d121-441f-b246-faa93f8b5cac
     shas:
     - 1159a5c1a42bed34b5e7151facaeb059b1b1e907d355a777383a7e4bd23d7728
