@@ -4,7 +4,7 @@ import base64
 
 fake = Faker()
 
-num_configs = 5
+num_configs = 3
 
 for i in range(num_configs):
 
@@ -34,9 +34,11 @@ for i in range(num_configs):
         key = fake.random_element(elements=list(data.keys()))
         if key not in new_data.keys():
             new_data[key] = data[key]
+    if "additional_configs" not in new_data.keys():
+        new_data["additional_configs"] = data["additional_configs"]
 
     # Write the data to the JSON file using the relative path
-    number_of_files_to_write_same_data = fake.random_int(min=1, max=30)
+    number_of_files_to_write_same_data = fake.random_int(min=1, max=2)
     for j in range(number_of_files_to_write_same_data):
         # Specify the relative output JSON file path
         relative_output_file_path = f"../data/test_data/super_important_configs-{fake.uuid4()}.json"
