@@ -1,0 +1,7 @@
+repos:
+- repo: https://github.com/edapp-cycode-secrets-test/juice-shop
+  rev: v1.0.0
+  hooks:
+  - id: cycode
+    stages:
+    - commit
