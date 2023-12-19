@@ -1,6 +1,6 @@
 repos:
-- repo: https://github.com/edapp-cycode-secrets-test/juice-shop
-  rev: v1.0.0
+- repo: https://github.com/cycodehq/cycode-cli
+  rev: v1.4.0
   hooks:
   - id: cycode
     stages:
