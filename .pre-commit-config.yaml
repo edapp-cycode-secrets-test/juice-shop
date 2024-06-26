@@ -1,7 +1,0 @@
-repos:
-- repo: https://github.com/cycodehq/cycode-cli
-  rev: v1.4.0
-  hooks:
-  - id: cycode
-    stages:
-    - commit
