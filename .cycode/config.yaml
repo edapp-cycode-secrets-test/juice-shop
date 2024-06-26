@@ -1,0 +1,4 @@
+exclusions:
+  secret:
+    rules:
+    - 6ffd32e4-168c-4d26-b95c-0c62072fcda1
